@@ -1,3 +1,9 @@
+# Features include:
++ A navbar that changes its color as you scroll down the page.
++ Random movie selections in the banner that refresh with each visit.
++ A carousel featuring movies retrieved from the IMDB API.
++ The ability to click on a movie to watch its trailer.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
